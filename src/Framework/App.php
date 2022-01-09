@@ -1,6 +1,7 @@
 <?php
-
 namespace Framework\App;
+require __DIR__ . '/Globals.php';
+require __DIR__ . '/../index.php';
 
 class App
 {
